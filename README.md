@@ -1,3 +1,14 @@
+Gulp-flowtype
+=================
+
+Fork of th gulp-flow type library. Gulp plugin for flow type checking.
+
+## Primary Contributor(s)
+
+- Jah Raphael
+
+
+
 ## gulp-flowtype [![Build Status][travis-image]][travis-url] [![NPM version][npm-image]][npm-url] [![Dependency Status][depstat-image]][depstat-url] [![Gitter chat][gitter-image]][gitter-url]
 
 > Run [Facebook's Flow](http://flowtype.org/) in your gulp pipeline
